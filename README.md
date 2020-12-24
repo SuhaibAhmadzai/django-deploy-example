@@ -1,1 +1,1 @@
-# django-deploy-example
+# read-me
